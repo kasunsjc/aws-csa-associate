@@ -14,13 +14,13 @@ IAM – Identity Access Management
 AWS Identity and Access Management docs https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
 The Top 20 AWS IAM Documentation Pages so Far in 2017 https://aws.amazon.com/blogs/security/the-top-20-aws-iam-documentation-pages-so-far-in-2017/
 AWS IAM Policies in a Nutshell -->https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
-AWS IAM https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-iam/
-AWS Organizations https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-accounts/
-AWS Directory Service https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-directory-service/
+AWS IAM -->https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-iam/
+AWS Organizations -->https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-accounts/
+AWS Directory Service -->https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-directory-service/
 
 #User Guides
 
-AWS Identity and Access Management - User Guide https://docs.aws.amazon.com/IAM/latest/UserGuide/iam-ug.pdf
+AWS Identity and Access Management - User Guide -->https://docs.aws.amazon.com/IAM/latest/UserGuide/iam-ug.pdf
 
 #Tools
 
@@ -43,13 +43,13 @@ AWS Tech Talks -->https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw
 
 #EC2
 
-Amazon EC2
+Amazon EC2 -->
 https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 EC2 Documentation -->https://docs.aws.amazon.com/ec2/index.html#lang/en_us
 
 #Whitepapers
 
-Managing User Logins for Amazon EC2 Linux Instances (September 2018)
+Managing User Logins for Amazon EC2 Linux Instances (September 2018) -->
 https://d1.awsstatic.com/whitepapers/Managing-user-login_ec2-linux.pdf
 
 #ReInvent Videos
