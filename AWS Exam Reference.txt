@@ -1,0 +1,67 @@
+#AWS SA Reference
+
+#Exam Reference
+
+AWS Certification Catalog --> http://jayendrapatil.com/
+AWS Solution Architect-Associate Feb 2018 Exam Blue Print https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Feb_2018_%20Exam_Guide_v1.5.2.pdf
+
+#Well Architecture Framework
+
+AWS Well-Architected --> https://aws.amazon.com/architecture/well-architected/
+
+IAM – Identity Access Management
+
+AWS Identity and Access Management docs https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+The Top 20 AWS IAM Documentation Pages so Far in 2017 https://aws.amazon.com/blogs/security/the-top-20-aws-iam-documentation-pages-so-far-in-2017/
+AWS IAM Policies in a Nutshell -->https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
+AWS IAM https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-iam/
+AWS Organizations https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-accounts/
+AWS Directory Service https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-directory-service/
+
+#User Guides
+
+AWS Identity and Access Management - User Guide https://docs.aws.amazon.com/IAM/latest/UserGuide/iam-ug.pdf
+
+#Tools
+
+IAM Policy Simulator -->https://policysim.aws.amazon.com/home/index.jsp?
+AWS Policy Generator -->https://awspolicygen.s3.amazonaws.com/policygen.html
+
+#ReInvent Videos
+
+AWS re:Invent 2017: IAM Policy Ninja (SID314)
+https://www.youtube.com/watch?v=aISWoPf_XNE&t=11s
+AWS re:Invent 2017: IAM for Enterprises: How Vanguard Strikes the Balance Between Ag (SID201)
+https://www.youtube.com/watch?v=P9cwxcruCC0&index=2&list=PLzgesQUF5DKis6COyAw95o8x4jKiDQ3p8
+AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310)
+https://www.youtube.com/watch?v=suBsFAEJUIc&index=3&list=PLzgesQUF5DKis6COyAw95o8x4jKiDQ3p8
+AWS re:Invent 2017: Using the new visual editor for IAM policies (DEM75)
+https://www.youtube.com/watch?v=jPHOpjSWJeM&index=4&list=PLzgesQUF5DKis6COyAw95o8x4jKiDQ3p8
+AWS re:Invent 2017: Soup to Nuts: Identity Federation for AWS (SID344)
+https://www.youtube.com/watch?v=CJexxdv054c&index=5&list=PLzgesQUF5DKis6COyAw95o8x4jKiDQ3p8
+AWS Tech Talks -->https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw
+
+#EC2
+
+Amazon EC2
+https://digitalcloud.guru/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+EC2 Documentation -->https://docs.aws.amazon.com/ec2/index.html#lang/en_us
+
+#Whitepapers
+
+Managing User Logins for Amazon EC2 Linux Instances (September 2018)
+https://d1.awsstatic.com/whitepapers/Managing-user-login_ec2-linux.pdf
+
+#ReInvent Videos
+
+Getting Started with Serverless Computing Using AWS Lambda (ENT332)
+https://www.youtube.com/watch?v=WbHw14hF7lU
+Amazon EC2 Foundations (CMP203)
+https://www.youtube.com/watch?v=97Wi7V1wLYA&t=49s
+Deep Dive on Amazon EC2 Instances, Featuring Performance Optimize (CMP301)
+https://www.youtube.com/watch?v=mZy6E2I5Rek
+What’s New in Amazon EC2, Containers and Serverless (CMP218)
+https://www.youtube.com/watch?v=6R0xRKkLkbc&t=23s
+And You Thought You Knew Amazon EC2 (DVC302)
+https://www.youtube.com/watch?v=of0BECWQfxE
+
