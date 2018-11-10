@@ -65,3 +65,14 @@ https://www.youtube.com/watch?v=6R0xRKkLkbc&t=23s
 And You Thought You Knew Amazon EC2 (DVC302)
 https://www.youtube.com/watch?v=of0BECWQfxE
 
+#Networking
+
+AWS VPC Docs -->https://docs.aws.amazon.com/vpc/latest/userguide/getting-started-ipv4.html
+Intro to AWS VPC -->https://medium.com/tensult/intro-to-vpc-548b69f1bd1f
+
+#Whitepapers
+Amazon Virtual Private Cloud Network Connectivity Options --> https://docs.aws.amazon.com/aws-technical-content/latest/aws-vpc-connectivity-options/introduction.html
+
+#ReInvent Videos
+
+AWS re:Invent 2017 Breakout Sessions (Networking) -->https://www.youtube.com/watch?v=Pj11NFXDbLY&list=PLhr1KZpdzukewxjrgeVIGw49tiIbkqt0Z
