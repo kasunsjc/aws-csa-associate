@@ -1,0 +1,42 @@
+{
+  "AWSTemplateFormatVersion" : "2010-09-09",
+
+  "Description" : "AWS CloudFormation Template to create a static S3 website configuration.",
+
+  "Parameters": {
+      "BucketName": {
+        "Description" : "Enter a valid bucket name",
+        "Type": "String",
+        "MinLength" : "5",
+        "MaxLength" : "20"
+      }
+  },
+
+  "Resources" : {
+    "S3Bucket" : {
+      "Type" : "AWS::S3::Bucket",
+      "Properties" : {
+        "AccessControl" : "PublicRead",
+        "BucketName": { "Ref" : "BucketName" },
+        "WebsiteConfiguration" : {
+           "IndexDocument" : "index.html",
+           "ErrorDocument" : "error.html"
+        }
+      }
+    }
+  },
+
+  "Outputs" : {
+    "WebsiteURL" : {
+      "Value" : { "Fn::GetAtt" : [ "S3Bucket", "WebsiteURL" ] },
+      "Description" : "The URL of the newly created website"
+    },
+    "S3BucketSecureURL": {
+      "Value" : { "Fn::Join" : [ "", 
+          [ "https://", { "Fn::GetAtt" : [ "S3Bucket", "DomainName" ] } ] 
+        ] 
+      },
+      "Description" : "S3 bucket secure URL"
+    }
+  }
+}
