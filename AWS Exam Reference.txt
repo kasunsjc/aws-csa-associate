@@ -77,4 +77,53 @@ Amazon Virtual Private Cloud Network Connectivity Options --> https://docs.aws.a
 
 AWS re:Invent 2017 Breakout Sessions (Networking) -->https://www.youtube.com/watch?v=Pj11NFXDbLY&list=PLhr1KZpdzukewxjrgeVIGw49tiIbkqt0Z
 
-######################################################################################################
+####################################S3 and Object Storage/Databases######################################
+AWS S3 Docs --> https://docs.aws.amazon.com/s3/index.html
+
+#Whitepapers
+Amazon Elastic File System: Choosing Between Different Throughput and Performance Mode
+https://d1.awsstatic.com/whitepapers/Storage/amazon_efs_choosing_between_different_performance_and_throughput.pdf
+
+Building Big Data Storage Solutions (Data Lakes) for Maximum Flexibility
+https://docs.aws.amazon.com/aws-technical-content/latest/building-data-lakes/building-data-lakes-on-aws.pdf#building-data-lake-aws
+
+AWS Storage Gateway
+https://d1.awsstatic.com/whitepapers/aws-storage-gateway-file-gateway-for-hybrid-architectures.pdf
+
+AWS Storage Services Overview
+https://aws.amazon.com/whitepapers/storage-options-aws-cloud/
+
+Using AWS for Disaster Recovery
+https://d1.awsstatic.com/whitepapers/aws-disaster-recovery.pdf
+
+Backup and Recovery Approaches Using AWS
+https://d1.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf
+
+Databases
+https://aws.amazon.com/whitepapers/#products (See the database)
+
+#Re:Invent Videos
+
+Deep Dive on Amazon S3 & Amazon Glacier Infrastructure
+https://www.youtube.com/watch?v=9_vScxbIQLY
+
+Best Practices for Amazon S3, with Special Guest
+https://www.youtube.com/watch?v=UKuL1K3oWuo
+
+Amazon S3 Masterclass
+https://www.youtube.com/watch?v=VC0k-noNwOU
+
+Amazon DynamoDB Under the Hood: How We Built a Hyper-Scale Database
+https://www.youtube.com/watch?v=yvBR71D0nAQ
+
+Amazon DynamoDB Deep Dive
+https://www.youtube.com/watch?v=ggDIat_FZtA
+
+Deep Dive on Amazon Relational Database Service
+https://www.youtube.com/watch?v=TJxC-B9Q9tQ
+
+Getting Started with Amazon Aurora
+https://www.youtube.com/watch?v=DAJhvRMniqo
+
+Deep Dive on MySQL Databases on Amazon RDS
+https://www.youtube.com/watch?v=b5vvW0l78Vs
