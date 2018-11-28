@@ -1,3 +1,7 @@
+﻿# AWS SA Slides
+https://1drv.ms/f/s!AqQqjZeBqYUIo80fngQ0FH57SAKgXg
+
+
 #AWS SA Reference
 
 #################################Exam Reference#######################################################
