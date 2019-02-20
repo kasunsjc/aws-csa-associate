@@ -1,0 +1,20 @@
+{
+    "Id": "Policy1550682616779",
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1550682607738",
+        "Action": [
+          "s3:GetObject",
+          "s3:ListBucket"
+        ],
+        "Effect": "Allow",
+        "Resource": "arn:aws:s3:::awsclassdemokasun",
+        "Principal": {
+          "AWS": [
+            "arn:aws:iam::546850830610:user/Kasun"
+          ]
+        }
+      }
+    ]
+  }

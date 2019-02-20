@@ -1,0 +1,23 @@
+{
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": "s3:ListBucket",
+            "Resource": "arn:aws:s3:::iamsecurekasun",
+            "Condition": {
+                "StringLike": {
+                    "s3:prefix": "QA/*"
+                }
+            }
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "s3:PutObject",
+                "s3:GetObject"
+            ],
+            "Resource": "arn:aws:s3:::iamsecurekasun/QA/*"
+        }
+    ]
+}
