@@ -1,6 +1,7 @@
 #!/bin/bash
-yum install httpd -y
+
 yum update -y
-aws s3 cp s3://awsclassdemokasun /var/www/html/ --recursive
-service httpd start
-chkconfig httpd on
+yum install -y httpd
+echo '<h1>Hello World</h1>' > /var/www/html/index.html
+systemctl start httpd
+systemctl enable httpd
