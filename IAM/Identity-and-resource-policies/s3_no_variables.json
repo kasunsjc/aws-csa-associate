@@ -4,7 +4,7 @@
     {
       "Action": ["s3:ListBucket"],
       "Effect": "Allow",
-      "Resource": ["arn:aws:s3:::la-homefolders-kasun"],
+      "Resource": ["arn:aws:s3:::test-homefolders-kasun"],
       "Condition": {"StringLike": {"s3:prefix": ["testuser/*"]}}
     },
     {
@@ -13,7 +13,7 @@
         "s3:PutObject"
       ],
       "Effect": "Allow",
-      "Resource": ["arn:aws:s3:::la-homefolders-kasun/testuser/*"]
+      "Resource": ["arn:aws:s3:::test-homefolders-kasun/testuser/*"]
     }
   ]
 }

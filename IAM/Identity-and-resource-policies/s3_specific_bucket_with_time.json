@@ -19,7 +19,7 @@
             "s3:ListBucket",
             "s3:GetBucketLocation"
          ],
-         "Resource":"arn:aws:s3:::la-homefolders-bucket"
+         "Resource":"arn:aws:s3:::test-homefolders-bucket"
       },
       {
          "Effect":"Allow",
