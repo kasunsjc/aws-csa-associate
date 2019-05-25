@@ -13,7 +13,7 @@ AWS Solution Architect-Associate Feb 2018 Exam Blue Print https://d1.awsstatic.c
 
 AWS Well-Architected --> https://aws.amazon.com/architecture/well-architected/
 
-#################################IAM – Identity Access Management####################################
+################################# IAM – Identity Access Management ####################################
 
 AWS Identity and Access Management docs https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
 The Top 20 AWS IAM Documentation Pages so Far in 2017 https://aws.amazon.com/blogs/security/the-top-20-aws-iam-documentation-pages-so-far-in-2017/
@@ -44,6 +44,8 @@ https://www.youtube.com/watch?v=jPHOpjSWJeM&index=4&list=PLzgesQUF5DKis6COyAw95o
 AWS re:Invent 2017: Soup to Nuts: Identity Federation for AWS (SID344)
 https://www.youtube.com/watch?v=CJexxdv054c&index=5&list=PLzgesQUF5DKis6COyAw95o8x4jKiDQ3p8
 AWS Tech Talks -->https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw
+AWS re:Invent 2018: [REPEAT 1] Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1) - https://www.youtube.com/watch?v=YQsK4MtsELU
+
 
 ##############################EC2##################################################################
 
