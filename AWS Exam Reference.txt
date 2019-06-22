@@ -136,3 +136,8 @@ https://www.youtube.com/watch?v=b5vvW0l78Vs
 
 ############### AWS Costs ####################################################
 How to Make Your AWS CloudWatch Data Work for You to Reduce Costs - https://medium.com/faun/how-to-make-your-aws-cloudwatch-data-work-for-you-to-reduce-costs-1783b41dd8f3
+
+################# Route53 ###################################################
+
+How to implement the perfect failover strategy using Amazon Route53
+https://medium.com/dazn-tech/how-to-implement-the-perfect-failover-strategy-using-amazon-route53-1cc4b19fa9c7
