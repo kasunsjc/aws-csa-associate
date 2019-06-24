@@ -141,3 +141,8 @@ How to Make Your AWS CloudWatch Data Work for You to Reduce Costs - https://medi
 
 How to implement the perfect failover strategy using Amazon Route53
 https://medium.com/dazn-tech/how-to-implement-the-perfect-failover-strategy-using-amazon-route53-1cc4b19fa9c7
+
+#################### Operational Excelence ###########################
+
+Maintaining your AWS infrastructure
+https://medium.com/faun/maintaining-your-aws-infrastructure-a4ae6ced8a74
