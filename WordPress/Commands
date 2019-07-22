@@ -1,3 +1,9 @@
+Use the Route53 Account
+
+1. Create cloudfront distribution
+2. Create the buckets wordpress-content-kasun & wordpress-code-kasun
+3. Create the RDS instences with Multi AZ
+
 #upload the images to bucket
 aws s3 cp --recursive /var/www/html/wp-content/uploads s3://wordpress-content-kasun/
 
