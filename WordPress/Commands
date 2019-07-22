@@ -20,3 +20,12 @@ nano httpd.conf
 #Change the AllowOverride ALL
 
 Copy the bucket policy to the wordpress-content-kasun Bucket
+
+Create the golden image from the EC2 instence
+
+add cron jobs as bellow
+
+*/1 * * * * root aws s3 sync --delete /var/www/html s3://wordpress-code-kasun
+*/1 * * * * root aws s3 sync --delete /var/www/html/wp-content/uploads s3://wordpress-content-kasun
+
+Create Lunch template and specify the IAM Role for s3 access 
