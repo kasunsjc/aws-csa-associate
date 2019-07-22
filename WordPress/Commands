@@ -1,0 +1,16 @@
+#upload the images to bucket
+aws s3 cp --recursive /var/www/html/wp-content/uploads s3://wordpress-content-kasun/
+
+#Go th .htaccess and change the URL redirect to cloudfront url
+
+#Sync the changed htaccess to s3 bucket
+aws s3 sync /var/www/html s3://wordpress-code-kasun
+
+#Appache Settings
+cd /etc/httpd
+cd config
+cp httpd.conf http-copy.conf
+nano httpd.conf
+#Change the AllowOverride ALL
+
+Copy the bucket policy to the wordpress-content-kasun Bucket
