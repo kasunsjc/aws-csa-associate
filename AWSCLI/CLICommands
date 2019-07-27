@@ -1,0 +1,11 @@
+aws ec2 help
+
+aws ec2 run-instances --image-id ami-xxxxxxxx --count 1 --instance-type t1.micro --key-name MyKeyPair --security-groups my-sg
+
+aws ec2 start-instances --instance-ids <instance-id>
+
+aws ec2 terminate-instances --instance-ids <instance-id>
+
+aws ec2 describe-instances --instance-ids <instance-id>
+
+aws ec2 describe-volumes
